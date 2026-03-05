@@ -12,3 +12,8 @@ A simple attack can hamper and compromize the whole system. So basically we need
 
 # Open Chat world Wide 🌏
 You can access this chat from anywhere in the world lmao.
+
+
+# Login Concern
+
+Just simply register your username and password. Just do it. Thats it.
